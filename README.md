@@ -17,8 +17,7 @@
 ![Python](https://img.shields.io/badge/python-00a5a5.svg?style=for-the-badge&logo=python&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jdalmeida&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jdalmeida&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jdalmeida&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jdalmeida&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
