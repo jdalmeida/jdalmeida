@@ -1,4 +1,4 @@
-## 🌐 [Portfolio](https://joao.allpines.com.br/)
+🌐 [Portfolio](https://joao.allpines.com.br/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jgde.almeida)
@@ -20,9 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=jdalmeida&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jdalmeida&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jdalmeida&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jdalmeida&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jdalmeida&icon=5&color=6)](https://visitcount.itsvg.in)
