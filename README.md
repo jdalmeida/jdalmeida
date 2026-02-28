@@ -59,8 +59,7 @@ I write about tech, leadership, and the things I learn the hard way.
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jdalmeida&theme=dracula&hide_border=false)](https://github.com/jdalmeida)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdalmeida&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/jdalmeida)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jdalmeida?cardType=level&theme=flag-brazil&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
