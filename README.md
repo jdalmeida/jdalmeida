@@ -27,7 +27,7 @@ In July 2024, my team and I built **[AllProtect](https://github.com/jdalmeida/al
 | [**AllProtect**](https://github.com/jdalmeida/allprotect) | AI-powered electronic fraud prevention · 🏆 Hackathon winner | TypeScript |
 | [**EzBuy**](https://github.com/jdalmeida/ezbuy) | Sales chatbot platform | TypeScript |
 | [**pstReader**](https://github.com/jdalmeida/pstReader) | PST file reader utility | Python |
-| [**Git-portfolio-markdown**](https://github.com/jdalmeida/Git-portfolio-markdown) | Generate a portfolio from your GitHub profile | JavaScript |
+| [**Git-portfolio-markdown**](https://github.com/jdalmeida/Git-portfolio-markdown) | Git repo for my Git Class at MOVACI 2023 | JavaScript |
 
 ---
 
