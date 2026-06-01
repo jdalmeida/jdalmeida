@@ -1,12 +1,10 @@
-# Hey, I'm João 👋 · Olá, eu sou o João
+# Hey, I'm João 👋 · Olá, eu sou o João :shipit:
 
-> *Always workin'* :shipit:
-
-I'm a fullstack developer and CTO at [Allpines](https://allpines.com.br), based in Brazil. I build things that solve real problems — from fraud prevention tools that won hackathons, to desktop AI assistants, to open-source libraries that make developers' lives easier.
+I'm a fullstack developer, based in Brazil. I build things that solve real problems — from fraud prevention tools that won hackathons, to desktop AI assistants, to open-source libraries that make developers' lives easier.
 
 ---
 
-*Sou desenvolvedor fullstack e CTO na [Allpines](https://allpines.com.br). Construo coisas que resolvem problemas reais — de ferramentas de prevenção a fraudes que venceram hackathons, a assistentes de IA para desktop, a bibliotecas open-source que facilitam a vida de outros devs.*
+*Sou desenvolvedor fullstack. Construo coisas que resolvem problemas reais — de ferramentas de prevenção a fraudes que venceram hackathons, a assistentes de IA para desktop, a bibliotecas open-source que facilitam a vida de outros devs.*
 
 ---
 
