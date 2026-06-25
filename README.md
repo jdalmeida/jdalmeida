@@ -47,6 +47,7 @@ In July 2024, my team and I built **[AllProtect](https://github.com/jdalmeida/al
 I write about tech, leadership, and the things I learn the hard way.  
 *Escrevo sobre tecnologia, liderança e coisas que aprendo na marra.*
 
+- [**Contexto é o Novo Código**](https://joao.allpines.com.br/blog/contexto-e-o-novo-codigo) — Coding with AI and creating context apps
 - [**A IA é um junior sem acesso à documentação**](https://joao.allpines.com.br/blog/a-ia-e-um-junior) — Using Cursor as my main editor for a month
 - [**O quebra-cabeça da computação**](https://joao.allpines.com.br/blog/o-quebra-cabeca-da-programacao) — What are interaction nets and how they change the way we think about computing
 - [**Do problema ao deploy**](https://joao.allpines.com.br/blog/do-problema-a-deploy) — How the hackathon methodology can help startups ship faster
