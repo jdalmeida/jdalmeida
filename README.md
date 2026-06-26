@@ -1,4 +1,6 @@
-# Hey, I'm João 👋 · Olá, eu sou o João :shipit:
+![](https://joao.allpines.com.br/favicon.svg)
+
+# Hey, I'm João 👋 · Olá, eu sou o João
 
 I'm a fullstack developer, based in Brazil. I build things that solve real problems — from fraud prevention tools that won hackathons, to desktop AI assistants, to open-source libraries that make developers' lives easier.
 
@@ -56,12 +58,6 @@ I write about tech, leadership, and the things I learn the hard way.
 
 ---
 
-## 📊 GitHub Stats
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jdalmeida?cardType=level&theme=flag-brazil&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
-
----
-
 ## 🌐 Let's connect · Vamos nos conectar
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://joao.allpines.com.br)
@@ -70,6 +66,5 @@ I write about tech, leadership, and the things I learn the hard way.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=jdalmeida&icon=5&color=6)](https://visitcount.itsvg.in)
 
-[![joao.allpines.com.br/blog](https://joao.allpines.com.br/blog)](https://joao.allpines.com.br/blog)
+:shipit:
