@@ -71,3 +71,5 @@ I write about tech, leadership, and the things I learn the hard way.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=jdalmeida&icon=5&color=6)](https://visitcount.itsvg.in)
+
+[![joao.allpines.com.br/blog](https://joao.allpines.com.br/blog)](https://joao.allpines.com.br/blog)
