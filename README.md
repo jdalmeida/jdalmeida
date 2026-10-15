@@ -54,8 +54,6 @@ I write about tech, leadership, and the things I learn the hard way.
 - [**O quebra-cabeça da computação**](https://joao.allpines.com.br/blog/o-quebra-cabeca-da-programacao) — What are interaction nets and how they change the way we think about computing
 - [**Do problema ao deploy**](https://joao.allpines.com.br/blog/do-problema-a-deploy) — How the hackathon methodology can help startups ship faster
 
-→ [joao.allpines.com.br/blog](https://joao.allpines.com.br/blog)
-
 ---
 
 ## 🌐 Let's connect · Vamos nos conectar
